@@ -1,0 +1,161 @@
+html {
+  background: #1e1e1e;
+}
+
+body {
+  background: #fff;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: 400;
+  letter-spacing: .3px;
+}
+
+
+/* links */
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: #1e1e1e;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a:active,
+a:hover {
+  color: #18bc9c;
+}
+
+
+/* navbar */
+.navbar-default {
+  background-color: #1e1e1e;
+}
+
+.navbar {
+  border-bottom: none;
+}
+
+/* home */
+
+header {
+  margin-bottom: 100px;
+}
+
+#logo {
+  color: #fff;
+  font-family: "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 6em;
+  font-weight: 100;
+  text-align: center;
+  /* sfont-weight: 100; */
+  letter-spacing: .5px;
+  text-transform: uppercase;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+
+.intro-photo {
+
+  background: #f7f7f7;
+  margin-top: 25px;
+  border-radius: 8px;
+
+}
+
+.blurb-text {
+  text-align: center;
+  padding-bottom: 15px;
+  font-style: italic;
+
+}
+
+
+/* about */
+
+
+/* videos */
+/* #videos {
+  background-color: #fff;
+} */
+
+.fom-btn {
+/*   background-color: #18bc9c; */
+  display: block;
+  clear: both;
+  margin: 0 auto;
+  padding: 15px;
+  color: #fff;
+}
+
+.fom-btn-2 {
+  margin-top: 29px;
+}
+
+.fom-btn-3 {
+  margin-top: 29px;
+}
+
+h1 {
+  text-align: center;
+/*   padding: 1em; */
+}
+
+.date {text-align: center;}
+.location {text-align: center;}
+.venue {text-align: center;}
+
+.row {
+/*   padding-bottom: 50px; */
+/*   border-bottom: 4px solid #ddd; */
+}
+
+#footer-main {
+  margin-top: 100px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background: #1e1e1e;
+}
+
+.container-fluid {
+  background: #1e1e1e;
+}
+
+.social-left {
+  font-style: italic;
+  font-weight: 300;
+  color: white;
+  font-size: 2em;
+  text-align: center;
+}
+
+.social-mid {
+  text-align: center;
+}
+
+.social-right {
+  text-align: center;
+}
+
+#upcoming {
+  padding-bottom: 50px;
+}
+
+.lessons {
+  float: right;
+}
+
+.video-wrap-main {
+  margin-bottom: 40px;
+}
+
+.video-wrap-other {
+
+  padding: 1em;
+
+}
