@@ -1,0 +1,74 @@
+Nick's Notes (1/19/15):
+
+  * add Instagram link to social media icons
+  * everything is one page
+  * links in the navbar scroll down to the appropriate section
+  * research into HTML5 Video reel for top section (Charlie says embedded via Youtube)
+  * going to "Big Cartel" to sell merch on, so no need for PayPal API support
+  * getting pictures together for backgrounds
+
+
+
+Header:
+
+  * Eye catching section -
+  * This is where nick's "action reel" will go
+  * Overlay logo
+
+
+About Section:
+
+  * establishes himself -
+    ** placeholder for now
+
+
+Services:
+
+  * Lessons -
+    * seperate page on this website that goes into detail about the lessons
+
+  * Session Work -
+    * goes into detail about nick's sessions work
+
+  * Purchase Sheet Music -
+    * will probably lead to Nick's big Cartel
+
+  * Resources -
+    * share's list of online resources for people
+
+
+Videos -
+
+  * most recent videos at the top
+  * look into any type of widget to display newest videos
+
+Social Media:
+
+  * no google+
+  * otherwise exactly the same
+
+Contact section:
+
+  submission form -
+
+  * name
+  * age
+  * email
+  * phone number (optional)
+  * experience / skill level (beginner, intermediate, advanced)
+  * in person or skype
+  * generas and interests
+
+  * your message (about themselves, interests in learning)
+
+  nick's info -
+
+  * email
+  * ... that's cool for now.
+
+
+Footer:
+
+  *exactly like this page -
+    *Nick's name or logo
+    *socal media links below
